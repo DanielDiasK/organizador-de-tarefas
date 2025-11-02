@@ -96,5 +96,3 @@ Se preferir usar `npm` ou `yarn`, adapte os comandos (porém o repositório est�
 ## Créditos
 
 Feito com ❤️ por Daniel Dias — [DanielDiasK](https://github.com/DanielDiasK)
-
-Se quiser que eu adicione uma licença (MIT, Apache-2.0, etc.) ou um `CONTRIBUTING.md`, me avise que eu incluo.
